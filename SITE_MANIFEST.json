@@ -1,0 +1,207 @@
+{
+  "domain": "siderealclock",
+  "niche": "Haute Horology & Sidereal Clock Chronometers",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "horology_executive_study.jpg",
+      "size_kb": 81.03,
+      "md5": "2920c749bb7a257c20ab550536c86761",
+      "description": "Sartorial executive study with fine mechanical chronometer on wrist",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "luxury_horological_salon.jpg",
+      "size_kb": 116.51,
+      "md5": "29cf2d904e14a9055048c65668872977",
+      "description": "Haute horlogerie salon vitrine presentation at 181 Mercer Street",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "mercer_salon_timepiece_vitrine.jpg",
+      "size_kb": 141.12,
+      "md5": "14db28e5e8bd4cc9d250b0c9dabcf7b9",
+      "description": "World time luxury watches showcased at 181 Mercer Street salon",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "smartwatch_horology_balance.jpg",
+      "size_kb": 58.88,
+      "md5": "80fc8cb1450a0bca921d64d2861916d8",
+      "description": "Precision digital and mechanical chronometer reference timepiece",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "pocket_watch_heritage_movement.jpg",
+      "size_kb": 22.83,
+      "md5": "83e964208e1ebdcaa35ecd1e4294114a",
+      "description": "Archival 19th-century chronometer pocket watch with enamel dial",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "siderealclock_asset_6.jpg",
+      "size_kb": 71.13,
+      "md5": "7b6790dbc1d6ae2e740027e691199aac",
+      "description": "Minute repeater movement",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "siderealclock_asset_7.jpg",
+      "size_kb": 78.68,
+      "md5": "92a9a7715b12099dd4a90005212c4b6b",
+      "description": "Minute repeater movement 2",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "siderealclock_asset_8.jpg",
+      "size_kb": 79.98,
+      "md5": "e7ea3a439d46f2331d5a0750be89cc63",
+      "description": "Breguet Marie Antoinette watch in J",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "siderealclock_asset_9.jpg",
+      "size_kb": 159.69,
+      "md5": "412225a623f6b48f6ea6b9347a1c000a",
+      "description": "George Daniels Grand Complication w",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "siderealclock_asset_10.jpg",
+      "size_kb": 219.18,
+      "md5": "6070a75b21ba00d652c81b62d3e6a43e",
+      "description": "Repeater pocket watch MET 17372",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "siderealclock_asset_11.jpg",
+      "size_kb": 161.32,
+      "md5": "f2b4a85d1447a48683a450498ac544d6",
+      "description": "Mechanics movement feinmechanik wri",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "siderealclock_asset_12.jpg",
+      "size_kb": 89.08,
+      "md5": "c1ba1e3be130f87153cbdb32e6eca8b3",
+      "description": "Back view of the model 22 ships chr",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "siderealclock_asset_13.jpg",
+      "size_kb": 99.42,
+      "md5": "bd025de56a23394b1b6f88dee05c851c",
+      "description": "Hour hand and minute hand and chron",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "siderealclock_asset_14.jpg",
+      "size_kb": 188.8,
+      "md5": "8dda932c9ef9f61c505ac57a4e97ad48",
+      "description": "Poljot Buran chronograph watch from",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "siderealclock_asset_15.jpg",
+      "size_kb": 211.86,
+      "md5": "a8c5cea0b30956cbdd1b42c006c2cc82",
+      "description": "Poljot Buran chronograph watch from",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "siderealclock_asset_16.jpg",
+      "size_kb": 181.27,
+      "md5": "303d1fe9ad4ec687eabfd2887864247c",
+      "description": "The Waterbury correct time for lit",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "siderealclock_asset_18.jpg",
+      "size_kb": 57.88,
+      "md5": "dc45bccd4c1fa74652ef190c5211ee2f",
+      "description": "1st quadrant of Breitling Colt chro",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "siderealclock_asset_19.jpg",
+      "size_kb": 249.65,
+      "md5": "819b41660651bb784f5b7cff34d2c6a9",
+      "description": "Breitling Navitimer chronograph wat",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "siderealclock_asset_20.jpg",
+      "size_kb": 114.16,
+      "md5": "a68a729997aa83532f82979de9305ceb",
+      "description": "Breitling Navitimer chronograph wat",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "siderealclock_asset_21.jpg",
+      "size_kb": 173.6,
+      "md5": "6e78bd8e8aacb6f5e5d49223ad529201",
+      "description": "Chronograph watch Guinand 60.50 w",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://siderealclock.com/sitemap.xml",
+    "robots": "https://siderealclock.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
